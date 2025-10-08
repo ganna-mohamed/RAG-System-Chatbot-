@@ -1,0 +1,6 @@
+streamlit
+PyPDF2
+langchain
+torch==2.8.0+cpu
+transformers==4.57.0
+faiss-cpu
